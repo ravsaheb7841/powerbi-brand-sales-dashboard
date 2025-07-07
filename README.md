@@ -10,7 +10,7 @@
 - **Filters**: Brand, Product, Rating
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](dashboard-image.png)
+![Dashboard Screenshot](Screenshot 2025-07-07 225257.png)
 
 ## 🔧 Tools Used
 - Power BI Desktop
